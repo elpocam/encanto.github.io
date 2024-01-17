@@ -1,0 +1,2 @@
+.box1, .more, .menuHolder, .extra_menu, ._date, #ContactForm .input, #ContactForm textarea{position: relative; behavior: url(js/PIE.htc);}
+.menuHolder{margin-right: -100px;}
